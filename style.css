@@ -416,7 +416,9 @@ form input[type="submit"]:hover, form input[type="submit"]:active, form input[ty
 	right: 20px;
 	z-index: 999;
 }
-
+.result{
+  text-align: center;
+}
 .floating-btn:hover {
 	background-color: #ffffff;
 	color: #001F61;
